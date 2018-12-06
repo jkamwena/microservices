@@ -1,2 +1,2 @@
 # microservices
-Microservices using GO
+Microservices using golang
